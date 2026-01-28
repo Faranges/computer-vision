@@ -211,5 +211,5 @@ __marimo__/
 
 # Datasets
 data/
-chest_xray/
+chest_xray_reorganized/
 *.zip
